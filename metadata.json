@@ -1,0 +1,6 @@
+{
+  "name": "GLAM STUDIO — Premium Multi-Brand Beauty E-Commerce",
+  "description": "Curated retailer of skincare, haircare, beauty treatments, and nutrition handpicked from the world's most loved brands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
