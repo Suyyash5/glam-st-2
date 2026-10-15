@@ -53,7 +53,7 @@ export const OpeningFilm: React.FC<OpeningFilmProps> = ({ onEnter }) => {
         muted
         onEnded={handleFinish}
         onError={handleFinish}
-        className="absolute inset-0 w-full h-full object-cover"
+        className="absolute inset-0 w-full h-full object-contain md:object-cover portrait:object-contain"
       />
 
       {/* Skip Intro Button */}
